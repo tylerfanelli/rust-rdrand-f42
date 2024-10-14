@@ -1,0 +1,2 @@
+[package]
+supported-arches = ["x86_64"]
